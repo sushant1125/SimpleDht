@@ -1,0 +1,2 @@
+Although this design is based on Chord, it is a simplified version of Chord; finger tables and finger-based routing are not implemented.
+Three things that are implemented in this assignment are: 1) ID space partitioning/re-partitioning, 2) Ring-based routing, and 3) Node joins.
